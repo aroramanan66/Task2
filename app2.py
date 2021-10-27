@@ -4,7 +4,7 @@ app=Flask(__name__)
 #Rendering to the index.html template  
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("index1.html")
 
 #Performing the GET,POST operation 
 @app.route("/login",  methods=["POST","GET"])
