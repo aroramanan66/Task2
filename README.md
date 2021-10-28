@@ -10,7 +10,7 @@ Ans 5. Python Filename: app.py
        
 Ques 6. Learn how to pass GET/POST data to Flask (https://www.digitalocean.com/community/tutorials/processing-incoming-request-data-in-flask)
 
-Ans 6. Pythn Filename: app2.py
+Ans 6. Python Filename: app2.py
        HTML Filenames: index1.html,login.html 
        
        Decription of the code: app.py2 file contains the code to perform the get and post operation and also display the values enter in the post operation. index1.html file is used 
